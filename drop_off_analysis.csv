@@ -1,0 +1,4 @@
+from_stage,to_stage,users_entering,users_continuing,users_dropped,drop_off_rate_pct
+Visit,Product View,20000,12107,7893,39.47
+Product View,Add to Cart,12107,4643,7464,61.65
+Add to Cart,Purchase,4643,1053,3590,77.32
